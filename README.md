@@ -1,3 +1,8 @@
+
+With 3+ years of experience in IT industry : **Data analytics** and **Automation**, I’ve worked on real-time aviation projects using **Power BI** . I also build end-to-end automation solutions with **UiPath RPA** —making processes smarter, faster, and more efficient.
+🔍Explore this profile to see my data analysis work across domains like Tourism, Retail,Hospitality, E-commerce, and Aviation .
+
+
 ## 🚀Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/-Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
